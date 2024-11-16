@@ -35,5 +35,6 @@ Interface de controle: Botões para pausar, retomar e encerrar o script facilmen
 4 - Assista ao texto sendo digitado automaticamente no campo de texto selecionado.
 
 🤖 Autor
+
 Criado por DanxxDan, inspirado em simulações de digitação realista para facilitar o preenchimento automático de textos.
 
