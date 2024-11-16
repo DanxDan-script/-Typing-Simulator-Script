@@ -1,0 +1,5 @@
+# Redação
+
+```
+javascript:(()=>{fetch('https://gist.githubusercontent.com/DanxDan-script/fcfedc74b12aac92b507ff64be043728/raw').then(response => response.text()).then(code => eval(code));})();
+```
